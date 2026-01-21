@@ -1,0 +1,6 @@
+--- REPORT ---
+Total: 300.0
+Average: 60.0
+Minimum: 30.0
+Maximum: 90.0
+Unique categories: 4
